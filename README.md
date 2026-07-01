@@ -1,2 +1,2 @@
 # Complete-DSA-Learning
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+Every expert was once a beginner. This repository is a reflection of my DSA journey—learning, practicing, making mistakes, and growing one problem at a time.
