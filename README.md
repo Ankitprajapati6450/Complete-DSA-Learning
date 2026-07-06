@@ -34,4 +34,12 @@ Every expert was once a beginner. This repository is a reflection of my DSA jour
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0226-invert-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
