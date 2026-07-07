@@ -42,4 +42,8 @@ Every expert was once a beginner. This repository is a reflection of my DSA jour
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
