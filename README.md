@@ -46,4 +46,12 @@ Every expert was once a beginner. This repository is a reflection of my DSA jour
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0007-reverse-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
