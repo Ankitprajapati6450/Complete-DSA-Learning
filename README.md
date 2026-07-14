@@ -49,6 +49,7 @@ Every expert was once a beginner. This repository is a reflection of my DSA jour
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
