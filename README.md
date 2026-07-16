@@ -40,6 +40,7 @@ Every expert was once a beginner. This repository is a reflection of my DSA jour
 | [0001-two-sum](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
@@ -67,6 +68,7 @@ Every expert was once a beginner. This repository is a reflection of my DSA jour
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
 | ------- |
