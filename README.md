@@ -41,6 +41,7 @@ Every expert was once a beginner. This repository is a reflection of my DSA jour
 | [0004-median-of-two-sorted-arrays](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
@@ -73,4 +74,9 @@ Every expert was once a beginner. This repository is a reflection of my DSA jour
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
