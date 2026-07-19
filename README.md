@@ -44,6 +44,7 @@ Every expert was once a beginner. This repository is a reflection of my DSA jour
 | [0053-maximum-subarray](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0073-set-matrix-zeroes) |
+| [0136-single-number](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,4 +86,8 @@ Every expert was once a beginner. This repository is a reflection of my DSA jour
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0073-set-matrix-zeroes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
