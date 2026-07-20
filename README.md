@@ -44,6 +44,7 @@ Every expert was once a beginner. This repository is a reflection of my DSA jour
 | [0053-maximum-subarray](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0073-set-matrix-zeroes) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0136-single-number) |
 ## Hash Table
 |  |
@@ -82,6 +83,7 @@ Every expert was once a beginner. This repository is a reflection of my DSA jour
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Matrix
 |  |
 | ------- |
