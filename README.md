@@ -46,11 +46,13 @@ Every expert was once a beginner. This repository is a reflection of my DSA jour
 | [0073-set-matrix-zeroes](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -79,6 +81,7 @@ Every expert was once a beginner. This repository is a reflection of my DSA jour
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,4 +95,12 @@ Every expert was once a beginner. This repository is a reflection of my DSA jour
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0136-single-number) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
