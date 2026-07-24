@@ -48,12 +48,14 @@ Every expert was once a beginner. This repository is a reflection of my DSA jour
 | [0136-single-number](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -102,6 +104,7 @@ Every expert was once a beginner. This repository is a reflection of my DSA jour
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
