@@ -63,6 +63,7 @@ Every expert was once a beginner. This repository is a reflection of my DSA jour
 | [0009-palindrome-number](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,6 +101,7 @@ Every expert was once a beginner. This repository is a reflection of my DSA jour
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0231-power-of-two) |
 ## Sorting
 |  |
 | ------- |
@@ -109,4 +111,8 @@ Every expert was once a beginner. This repository is a reflection of my DSA jour
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
