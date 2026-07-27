@@ -49,6 +49,7 @@ Every expert was once a beginner. This repository is a reflection of my DSA jour
 | [0169-majority-element](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ Every expert was once a beginner. This repository is a reflection of my DSA jour
 | [0073-set-matrix-zeroes](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0219-contains-duplicate-ii) |
 ## Math
 |  |
 | ------- |
@@ -115,4 +117,8 @@ Every expert was once a beginner. This repository is a reflection of my DSA jour
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0231-power-of-two) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
