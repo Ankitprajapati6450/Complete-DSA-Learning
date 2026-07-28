@@ -66,6 +66,7 @@ Every expert was once a beginner. This repository is a reflection of my DSA jour
 | [0066-plus-one](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0258-add-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -121,4 +122,12 @@ Every expert was once a beginner. This repository is a reflection of my DSA jour
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0219-contains-duplicate-ii) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
