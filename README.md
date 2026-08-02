@@ -50,6 +50,7 @@ Every expert was once a beginner. This repository is a reflection of my DSA jour
 | [0189-rotate-array](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0219-contains-duplicate-ii) |
+| [0877-stone-game](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ Every expert was once a beginner. This repository is a reflection of my DSA jour
 | [0189-rotate-array](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0258-add-digits) |
+| [0877-stone-game](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,6 +98,7 @@ Every expert was once a beginner. This repository is a reflection of my DSA jour
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0877-stone-game) |
 ## Matrix
 |  |
 | ------- |
@@ -130,4 +133,8 @@ Every expert was once a beginner. This repository is a reflection of my DSA jour
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0258-add-digits) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
