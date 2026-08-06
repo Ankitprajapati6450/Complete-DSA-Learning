@@ -59,6 +59,7 @@ Every expert was once a beginner. This repository is a reflection of my DSA jour
 | [0169-majority-element](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0219-contains-duplicate-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -82,6 +83,7 @@ Every expert was once a beginner. This repository is a reflection of my DSA jour
 | [0058-length-of-last-word](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -117,6 +119,7 @@ Every expert was once a beginner. This repository is a reflection of my DSA jour
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0387-first-unique-character-in-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -137,4 +140,8 @@ Every expert was once a beginner. This repository is a reflection of my DSA jour
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0877-stone-game) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
