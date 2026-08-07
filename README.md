@@ -39,6 +39,7 @@ Every expert was once a beginner. This repository is a reflection of my DSA jour
 | ------- |
 | [0001-two-sum](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0053-maximum-subarray) |
@@ -80,6 +81,7 @@ Every expert was once a beginner. This repository is a reflection of my DSA jour
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0344-reverse-string) |
@@ -144,4 +146,8 @@ Every expert was once a beginner. This repository is a reflection of my DSA jour
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0387-first-unique-character-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Ankitprajapati6450/Complete-DSA-Learning/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
